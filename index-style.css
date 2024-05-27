@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+}
+
+.photo {
+  text-align: center;
+}
+
+.one {
+  width: 500px;
+  font-size: 36px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.two {
+  width: 500px;
+  /* height: 0px; */
+  margin: 0px auto ;
+  background-color: #eaeaea;
+  text-align: center;
+  font-size: 25px;
+  padding: 50px;
+
+}
